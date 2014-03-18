@@ -5,6 +5,6 @@ This is my great project
 
 cmdlinebfr
 
-I'll edit this blah blah yes
+I'll edit this blah blah yes less
 
 cmdlineafter
